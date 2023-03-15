@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"C:/Users/sholz/source/repos/spring-petclinic","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}}}
